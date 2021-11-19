@@ -1,0 +1,1 @@
+[2021 Advent of Code exercises](https://adventofcode.com/2021)
